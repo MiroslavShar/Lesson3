@@ -1,6 +1,6 @@
 public class Duck implements Swimmable{
     public void swim() {
-        System.out.println("Уточка плыви");
+        System.out.println("Duck swim");
     }
 
     public static void main(String[] args) {
